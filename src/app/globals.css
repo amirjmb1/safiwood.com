@@ -1,0 +1,46 @@
+@import 'tailwindcss';
+
+:root {
+  color-scheme: light;
+  --background: #f7f4f0;
+  --foreground: #1f1b16;
+  --gradient-start: rgba(180, 83, 9, 0.15);
+  --gradient-end: rgba(13, 148, 136, 0.2);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(circle at top left, var(--gradient-start), transparent),
+    radial-gradient(circle at bottom right, var(--gradient-end), transparent),
+    var(--background);
+  color: var(--foreground);
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+.container-gutter {
+  @apply container mx-auto;
+}
+
+.glass {
+  @apply border border-white/50 bg-white/70 shadow-xl backdrop-blur-xl dark:bg-neutral-900/70;
+}
+
+.focus-outline {
+  @apply focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-white focus-visible:outline-none;
+}
+
+.focus-outline:focus-visible {
+  --tw-ring-color: #b45309;
+}
+
+.light-gradient {
+  background: linear-gradient(135deg, rgba(180, 83, 9, 0.15), rgba(13, 148, 136, 0.18));
+}
