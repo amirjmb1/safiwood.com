@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "g1",
+      "title": "آشپزخانه مدرن با جزیره چوبی",
+      "description": "ترکیب چوب گردو و سنگ کوارتز با نورپردازی خطی برای فضاهای مدرن.",
+      "category": "کابینت مدرن",
+      "imageUrl": "https://picsum.photos/seed/safiwood1/800/600"
+    },
+    {
+      "id": "g2",
+      "title": "کابینت کلاسیک با تاج منبت",
+      "description": "جزئیات منبت دست‌ساز و رنگ پلی‌اورتان برای جلوه‌ای کلاسیک.",
+      "category": "کابینت کلاسیک",
+      "imageUrl": "https://picsum.photos/seed/safiwood2/800/600"
+    },
+    {
+      "id": "g3",
+      "title": "آشپزخانه اپن با نورپردازی",
+      "description": "طراحی باز و صمیمی با نورپردازی مخفی و باکس‌های شیشه‌ای.",
+      "category": "کابینت مدرن",
+      "imageUrl": "https://picsum.photos/seed/safiwood3/800/600"
+    },
+    {
+      "id": "g4",
+      "title": "ست TV وال و کتابخانه",
+      "description": "ترکیب MDF سوپرمت و نوار لبه طلایی برای فضای نشیمن لوکس.",
+      "category": "دکوراسیون داخلی",
+      "imageUrl": "https://picsum.photos/seed/safiwood4/800/600"
+    },
+    {
+      "id": "g5",
+      "title": "آشپزخانه دو‌رنگ",
+      "description": "ترکیب رنگ‌های طوسی و چوب روشن برای ایجاد گرما و روشنایی.",
+      "category": "کابینت مدرن",
+      "imageUrl": "https://picsum.photos/seed/safiwood5/800/600"
+    },
+    {
+      "id": "g6",
+      "title": "آشپزخانه کلاسیک با جزئیات طلایی",
+      "description": "قرینه‌سازی دقیق و دستگیره‌های طلایی برای فضاهای رسمی.",
+      "category": "کابینت کلاسیک",
+      "imageUrl": "https://picsum.photos/seed/safiwood6/800/600"
+    },
+    {
+      "id": "g7",
+      "title": "کابینت مینیمال بدون دستگیره",
+      "description": "استفاده از سیستم فشاری و صفحات یکپارچه برای خطوط تمیز و ساده.",
+      "category": "کابینت مدرن",
+      "imageUrl": "https://picsum.photos/seed/safiwood7/800/600"
+    },
+    {
+      "id": "g8",
+      "title": "آشپزخانه جزیره‌دار لوکس",
+      "description": "سنگ طبیعی با بافت منحصر به‌فرد و نورپردازی القایی برای جزیره.",
+      "category": "کابینت لوکس",
+      "imageUrl": "https://picsum.photos/seed/safiwood8/800/600"
+    }
+  ]
+}
